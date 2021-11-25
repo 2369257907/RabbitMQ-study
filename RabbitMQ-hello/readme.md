@@ -9,5 +9,5 @@ git clone https://github.com/2369257907/RabbitMQ-study.git
 
 
 如果有任何疑问，请访问：
- [我的博客]   (https://www.yuque.com/yangjinghui-x29x3/nczdgd/ig5uic#ajOaz) 
+[我的博客](https://www.yuque.com/yangjinghui-x29x3/nczdgd/ig5uic#ajOaz)
 查看更加详细的博客教程
